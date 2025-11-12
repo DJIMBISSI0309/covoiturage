@@ -1,0 +1,250 @@
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+}
+textarea{
+    width: 100%;
+    /* border: none; */
+    height: 50px;
+    margin-bottom: 25px;
+    padding-left: 25px;
+   
+    outline: none;
+    color: #ffffff;
+    border-radius: 45px;
+  }
+    #boot {
+text-decoration: none;
+color:#6699ff;
+font-weight: bold;
+padding: 10px 20px;
+transition: 0.5s;
+border-radius: 6px;
+}
+
+
+.info_section .contact_section {
+  position: relative;
+}
+
+.info_section .contact_section h2 {
+  font-weight: bold;
+}
+
+.info_section .contact_section form {
+  margin-top: 45px;
+  padding-right: 35px;
+  margin-bottom: 45px;
+}
+
+.info_section .contact_section input {
+  width: 100%;
+  /* border: none; */
+  height: 50px;
+  margin-bottom: 25px;
+  padding-left: 25px;
+
+  outline: none;
+
+  border-radius: 45px;
+}
+select {
+  width: 100%;
+  /* border: none; */
+  height: 50px;
+  margin-bottom: 25px;
+  padding-left: 25px;
+
+  outline: none;
+  color: #000;
+  border-radius: 45px;
+}
+
+.info_section .contact_section input::-webkit-input-placeholder {
+  color: #737272;
+}
+
+.info_section .contact_section input:-ms-input-placeholder {
+  color: #737272;
+}
+
+.info_section .contact_section input::-ms-input-placeholder {
+  color: #737272;
+}
+
+.info_section .contact_section input::placeholder {
+  color: #737272;
+}
+
+.info_section .contact_section input.message-box {
+  height: 135px;
+  border-radius: 25px;
+}
+
+.info_section .contact_section button{
+  /* border: none; */
+  display: inline-block;
+  padding: 12px 55px;
+ background-color:#ffffff; 
+  border: 1px solid transparent;
+  border-radius: 35px;
+color:#000;
+  margin-top: 35px;
+}
+
+.boll{
+  width: 100%;
+  /* border: none; */
+  height: 50px;
+  margin-bottom: 25px;
+  padding-left: 25px;
+  outline: none;
+  border-radius: 45px;
+}
+
+ button:hover {
+  background-color:#6699ff;
+  color: #ffffff;
+}
+
+.info_section .contact_section .map_container {
+  height: 100%;
+  min-height: 325px;
+}
+
+.info_section .contact_section .map_container .map-responsive {
+  height: 100%;
+}
+#boot:hover{
+
+  background-color:#6699ff;
+  color: #fff;
+  
+  
+}
+#sel1{
+  
+  margin-left: 10%;
+   
+   transform:translateY(-2px);
+
+ }
+ #bot{
+  
+  margin-left: 90%;
+   
+   transform:translateY(50px);
+
+ }
+ #get{
+  
+  margin-left: 10%;
+   
+   transform:translateY(-30px);
+
+ }
+
+ .footo{
+  background: url("../Vue/image/img5.jpg")  ;
+    /* width: auto; */
+  height: 100vh;  
+  background-size: cover;
+  background-position: center;
+  margin:0;
+  background-repeat:no-repeat; 
+}
+ .bot{
+  background: url("../includes/image/image12.jpg")  ;
+   /* width: auto;
+  height: 200px;  */
+  background-size: cover;
+  background-position: center;
+}
+.foot{
+    background: url("../Vue/image/img1.jpg")  ;
+    background-size: cover;
+    background-position: center;
+   
+    
+}
+.foota{
+  background: url("../Vue/image/img3.jpg")  ;
+  background-size: cover;
+  background-position: center;
+ 
+  
+}
+.fat{
+  background: url("../Vue/image/img4.jpg")  ;
+  background-size: cover;
+  background-position: center;
+ 
+  
+}
+#tach{
+  margin-left: 300px;
+}
+/* .foota{
+  background: url("../includes/image/image10.jpg")  ;
+  background-size: cover;
+  background-position: center;
+  
+} */
+
+/* .void{
+  background: url("../includes/image/covoit.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 300px;
+} */
+.long{
+  background-color:transparent;
+}
+#logo{
+  color:#6699ff;
+  font-weight: bold;
+  font-size: 25px; 
+}
+#logo1{
+  color:#6699ff;
+}
+.logo2{
+  font-size: 25px;
+}
+.icon,.fot{
+color:#6699ff;
+}
+#fleche{
+  color:#6699ff;
+}
+/* .f{
+  background-size: cover;
+  background-position: center;
+} */
+
+
+.features-section{
+  padding: 80px 0;
+  background:#6699ff;
+}
+.feature-card{
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+  background:white;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease;
+}
+.feature-card:hover{
+  transform: translateY(-10px);
+}
+.feature-card i {
+  font-size: 2.5rem;
+  color: #007bff;
+  margin-bottom: 20px;
+}
+.dropdown-item{
+  white-space: normal;
+  word-wrap: break-word;
+}
